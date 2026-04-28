@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Teek
   text: VitePress 主题
-  tagline: ✨一个轻量、简洁高效、灵活配置，易于扩展的 VitePress 主题
+  tagline: 一个轻量、简洁高效、灵活配置，易于扩展的 VitePress 主题
   actions:
     - theme: brand
       text: 开始
@@ -30,13 +30,3 @@ features:
     title: 专注内容
     details: 只需 Markdown 即可轻松创建美观的文档站点，配合多维索引快速定位每个知识点。
 ---
-
-## 风格切换
-
-Teek 可以通过配置搭配出各种风格，而当前文档站默认仅演示较简约的文档风格。
-
-在右上角 <TkIcon :icon="readingIcon" :size="20" /> 图标的 <mark>配置切换</mark> 区域可以切换其他风格。因为配置较多，很多的功能并没有完全演示，需要安装 Teek，然后自行探索出自己喜欢的风格。
-
-## 💡 反馈交流
-
-在使用过程中有任何问题和想法，请给我提 [Issue](https://github.com/Kele-Bingtang/vitepress-theme-teek/issues)。 你也可以在 Issue 查看别人提的问题和解决方案。

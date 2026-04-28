@@ -7,7 +7,7 @@ const description = "个人博客，个人备忘录";
 export default defineConfig({
   extends: teekConfig,
   title: "xiaozhai801 的个人博客",
-  base: "/blog/",
+  base: "/",
   description: description,
   cleanUrls: false,
   lastUpdated: true,
